@@ -1,5 +1,8 @@
 _repo: From-Boniface-to-Bank-Burglar-The-Price-of-Persecution_57760
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57760-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bliss, (Alias) George
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49585'
     url: http://www.gutenberg.org/2009/agents/49585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57760#From-Boniface-to-Bank-Burglar-The-Price-of-Persecution
 gutenberg_issued: '2018-08-24'
 gutenberg_type: Text
 identifiers:
